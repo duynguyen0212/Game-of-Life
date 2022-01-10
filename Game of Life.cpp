@@ -1,10 +1,3 @@
-/*****************************************************
-*  Assignment    : 4                                 *
-*  Name          : Ngoc Duy Nguyen                   *
-*  Student ID    : 00231123                          *
-*  Date          : December 8th                      *
-*  Game of life                                      *
-******************************************************/
 #include<iostream>
 #include<iomanip>
 #include<cstdlib>
